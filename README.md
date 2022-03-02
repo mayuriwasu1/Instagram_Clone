@@ -27,7 +27,6 @@
 - They can follow or unfollow other users
 - They can like, unlike, and comment on other users’ posts.
 - They can edit their own profile.
-- They can chat with other users.
 - They can like and comment on other users posts.
 - On the profile page, they can see the count of followers and following of their own profile and other’s profile as well.
 
