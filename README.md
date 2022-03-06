@@ -6,10 +6,10 @@
 
 ---
 ## [Demo](https://instagram-mern-clone.netlify.app/)
----
+
 
 ##  [Blog Link](https://medium.com/@mayuriwasu2000/instagram-clone-59d65f203fb1) 
-
+---
 ## Tech Stack :wrench:
 
 #### Client:
