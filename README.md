@@ -10,7 +10,7 @@
 
 ##  [Blog Link](https://medium.com/@mayuriwasu2000/instagram-clone-59d65f203fb1) 
 ---
-## Tech Stack :wrench:
+## Tech Stack 🛠️
 
 #### Client:
 
@@ -21,7 +21,7 @@
 - `MongoDB`, `Express`, `Node`, `WebSocket`
 
 ---
-## Features  :heavy_plus_sign:
+## Features ✔️
 
 - Users can share images with their audience.
 - They can follow or unfollow other users
